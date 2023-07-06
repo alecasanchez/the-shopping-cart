@@ -11,7 +11,7 @@ Simplistic, engaging and inspirational react app build designed to captivate sho
 
 
 ## Demo
-
+https://github.com/alecasanchez/the-shopping-cart/assets/105893227/88b5521a-0037-4487-91b8-62981f3f7434
 
 
 
